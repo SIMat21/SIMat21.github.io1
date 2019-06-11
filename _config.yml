@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://simat21.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: SIM工作室
+subtitle: "SIM医学文库资料小站"
+description: "SIM在手，考试无忧"
+keywords: SIM医学文库, 交大医学院, 复旦医学院, 临床学硕,考研
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
