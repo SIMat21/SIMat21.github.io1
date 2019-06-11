@@ -4,10 +4,10 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: SIM医学文库
+subtitle: "SIM在手，考试无忧"
+description: "SIM精品资料"
+keywords: SIM医学文库, 交医题库, 复旦学硕, 临床考研
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
